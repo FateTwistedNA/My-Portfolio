@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Vuong (Dustin) Nguyen"
-  avatar           : "/Users/vuongnguyen/Documents/StudyAbroad/Documents/photo_portrait.jpeg"
+  avatar           : "photo_portrait.jpeg"
   bio              : "Ph.D. Student in Computer Science at University of Houston"
   location         : "Houston, TX, USA 77075"
   employer         :
