@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage! I am a Ph.D. student at [Department of Computer Science](https://cs.uh.edu), University of Houston, Texas. I earned my Bachelor of Science in Applied Mathematics from [Hanoi University of Science and Technology](https://hust.edu.vn/).
 
-Working at (Quantitative Imaging Lab)[https://www2.cs.uh.edu/~shah/] under the supervision of Professor [Shishir Shah](https://scholar.google.com/citations?user=gJ3JGSsAAAAJ&hl=en), my research focuses on Computer Vision and Pattern Recognition. I am working actively on [Person Re-Identification](https://paperswithcode.com/task/person-re-identification#:~:text=It%20involves%20detecting%20and%20tracking,a%20robust%20and%20efficient%20manner.), where I develop Deep Learning models using 3D models to re-identify persons of interest, serving surveillance and public safety purposes.
+Working at [Quantitative Imaging Lab](https://www2.cs.uh.edu/~shah/) under the supervision of Professor [Shishir Shah](https://scholar.google.com/citations?user=gJ3JGSsAAAAJ&hl=en), my research focuses on Computer Vision and Pattern Recognition. I am working actively on [Person Re-Identification](https://paperswithcode.com/task/person-re-identification#:~:text=It%20involves%20detecting%20and%20tracking,a%20robust%20and%20efficient%20manner.), where I develop 3D feature extraction models to re-identify persons of interest, serving surveillance and public safety purposes.
 
 May you have any question, feel free to reach out to me at **dnguyen170 AT uh DOT edu**.
 
