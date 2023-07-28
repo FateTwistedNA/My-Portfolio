@@ -14,7 +14,7 @@ Working at [Quantitative Imaging Lab](https://www2.cs.uh.edu/~shah/) under the s
 
 May you have any question, feel free to reach out to me at **dnguyen170 AT uh DOT edu**.
 
-# News
+## News
 - **Nov, 2022**: I am honored to receive *Cullen Graduate Student Success Fellowship (CGSSF)* from [Department of Computer Science](https://cs.uh.edu), UH. Keep it up, Dustin!
 - **Aug, 2022**: I started my Ph.D. journey at [University of Houston](https://uh.edu). Go for it, Dustin! 
 - **Feb 2021**: I started working as an AI Engineer at [Grooo International](https://grooo.vn/en).
