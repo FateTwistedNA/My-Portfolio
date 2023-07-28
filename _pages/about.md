@@ -12,7 +12,10 @@ Welcome to my homepage! I am a Ph.D. student at [Department of Computer Science]
 
 Working at [Quantitative Imaging Lab](https://www2.cs.uh.edu/~shah/) under the supervision of Professor [Shishir Shah](https://scholar.google.com/citations?user=gJ3JGSsAAAAJ&hl=en), my research focuses on Computer Vision and Pattern Recognition. I am working actively on [Person Re-Identification](https://paperswithcode.com/task/person-re-identification#:~:text=It%20involves%20detecting%20and%20tracking,a%20robust%20and%20efficient%20manner.), where I develop 3D feature extraction models to re-identify persons of interest, serving surveillance and public safety purposes.
 
-May you have any question, feel free to reach out to me at **dnguyen170 AT uh DOT edu**.
+May you have any question, feel free to reach out to me at:
+- Email: **dnguyen170 AT uh DOT edu**
+- Phone: (346) 270-8403
+- Office: PGH 203
 
 ## News
 - **Nov, 2022**: I am honored to receive *Cullen Graduate Student Success Fellowship (CGSSF)* from [Department of Computer Science](https://cs.uh.edu), UH. Keep it up, Dustin!
