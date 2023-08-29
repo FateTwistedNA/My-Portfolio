@@ -8,36 +8,16 @@ author_profile: true
 #sort:"order_number" 
 ---
 
-My academic research falls into two main areas: understanding the influence of
-geography on actor behavior before, during, and after civil conflict, and
-developing new tools to improve the study of institutions (both formal and
-informal) in peace and conflict. One strand of research in this first area
-explores how the territories that ethnic groups inhabit shape rebel group
-formation and condition their relationship with the state. My interest in
-geography also informs projects on active conflicts including the targeting of
-UN peacekeepers by insurgent groups, civilian victimization after rebel
-territorial conquest, and communal violence in fragile settings.
+My research mainly focuses on Person Re-Identification (Re-ID). This is a crucial task in computer vision that aims to identify individuals across different images or video frames. It plays a significant role in surveillance, security, and social media analysis. Person Re-ID aims to match images of the same person taken from different viewpoints, under varying lighting conditions, and across different time intervals. This task is complex due to factors like pose variations, occlusions, and changes in appearance.
 
-My other main research agenda uses advanced methods to develop new measures of
-institutions. One project uses Bayesian item response theory to measure the
-strength of peace agreements as a latent variable and free researchers from
-post-treatment bias caused by using the duration of agreements as a proxy for
-their strength. In others, I apply unsupervised learning techniques to over a
-billion observations of product-level international trade data to measure
-economic interdependence and illicit economic exchange.
+![Person Re-ID baseline](/images/reid_baseline.jpg "Person Re-ID baseline")
 
-In a new avenue of research, I leverage social media data to explore
-participation in extremist movements across multiple contexts, gaining insight
-into the early stages of radicalization.
+Currently, I am developing models to tackle two challenging advanced subtasks in Person Re-ID namely **Cloth-changing Person Re-ID** and **Lifelong Person Re-ID**.
 
+- **Cloth-changing Person Re-ID** specifically deals with the long-term scenario of identifying individuals who have changed their clothing, making it difficult to use traditional appearance-based models for recognition as appearance is no longer reliable. I am developing models that are able to capture clothing-invariant cues, such as body shape or gait.
 
+![Cloth-changing Person Re-ID task](/images/ccreid.png "Cloth-changing Person Re-ID: matching the same person under cloth-changes from different views")
 
-<nbsp>
+- **Lifelong Person Re-ID** addresses the scenario where the model needs to continuously adapt and improve its recognition capabilities as new data becomes available over time, ensuring reliable recognition even in dynamic and evolving environments. My works involve developing techniques that can efficiently perform well on new data without catastrophic forgetting and performance degradation.
 
-{% include base_path %}
-
-{% assign ordered_pages = site.research | %} 
-
-{% for post in ordered_pages %}
-  {% include archive-single.html type="grid" %}
-{% endfor %}
+![Lifelong Person Re-ID task](/images/lreid.png "Lifelong Person Re-ID: deal with incremental data without forgetting.")
