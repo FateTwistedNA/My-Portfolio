@@ -18,7 +18,7 @@ May you have any question, feel free to reach out to me at:
 - Office: PGH 203
 
 ## News
-- **Nov, 2022**: I am honored to receive *Cullen Graduate Student Success Fellowship (CGSSF)* from [Department of Computer Science](https://cs.uh.edu), UH. Keep it up, Dustin!
+- **Nov, 2022**: I am honored to receive *Cullen Graduate Student Success Fellowship (CGSSF)* from [UH Graduate School](https://www.uh.edu/graduate-school), UH. Keep it up, Dustin!
 - **Aug, 2022**: I started my Ph.D. journey at [University of Houston](https://uh.edu). Go for it, Dustin! 
 - **Feb 2021**: I started working as an AI Engineer at [Grooo International](https://grooo.vn/en).
 - **Jul, 2021**: I graduated from [HUST](https://hust.edu.vn/), majoring in Applied Mathematics.
