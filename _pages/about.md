@@ -10,7 +10,7 @@ redirect_from:
 
 Welcome to my homepage! I am a Ph.D. student at [Department of Computer Science](https://cs.uh.edu), University of Houston, Texas. I earned my Bachelor of Science in Applied Mathematics from [Hanoi University of Science and Technology](https://hust.edu.vn/).
 
-Working at [Quantitative Imaging Lab](https://www2.cs.uh.edu/~shah/) under the supervision of Professor [Shishir Shah](https://scholar.google.com/citations?user=gJ3JGSsAAAAJ&hl=en), my research focuses on Computer Vision and Pattern Recognition. I am working actively on [Person Re-Identification](https://paperswithcode.com/task/person-re-identification#:~:text=It%20involves%20detecting%20and%20tracking,a%20robust%20and%20efficient%20manner.), where I develop 3D feature extraction models to re-identify persons of interest, serving surveillance and public safety purposes.
+Working at [Quantitative Imaging Lab](https://www2.cs.uh.edu/~shah/) under the supervision of Professor [Shishir Shah](https://scholar.google.com/citations?user=gJ3JGSsAAAAJ&hl=en), my research focuses on Computer Vision and Pattern Recognition. I am working actively on [Person Re-Identification](https://paperswithcode.com/task/person-re-identification#:~:text=It%20involves%20detecting%20and%20tracking,a%20robust%20and%20efficient%20manner.), where I develop feature extraction models to re-identify persons of interest, serving surveillance and public safety purposes.
 
 May you have any question, feel free to reach out to me at:
 - Email: **dnguyen170 AT uh DOT edu**
@@ -18,6 +18,8 @@ May you have any question, feel free to reach out to me at:
 - Office: PGH 203
 
 ## News
+- **Oct, 2023**: My paper titled *Contrastive Viewpoint-aware Shape Learning for Long-term Person Re-Identification* has been accepted at WACV2024.
+- **Sep, 2023**: My paper [Building Footprint Extraction in Dense Areas using Super Resolution and Frame Field Learning](https://arxiv.org/abs/2309.01656) has been accepted at iCAST2023. 
 - **Nov, 2022**: I am honored to receive *Cullen Graduate Student Success Fellowship (CGSSF)* from [UH Graduate School](https://www.uh.edu/graduate-school), UH. Keep it up, Dustin!
 - **Aug, 2022**: I started my Ph.D. journey at [University of Houston](https://uh.edu). Go for it, Dustin! 
 - **Feb 2021**: I started working as an AI Engineer at [Grooo International](https://grooo.vn/en).
