@@ -21,7 +21,7 @@ May you have any question, feel free to reach out to me at:
 - **Nov, 2023**: Triple BAM!!! My paper titled *Temporal 3D Shape Modeling for Video-based Cloth-Changing Person Re-Identification* has been accepted at [WACV2024 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
 - **Nov, 2023**: Double BAM!!! My paper titled *Unsupervised Person Re-Identification in Aerial Imagery* has been accepted at [WACV2024 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
 - **Oct, 2023**: BAM!!! My paper titled *Contrastive Viewpoint-aware Shape Learning for Long-term Person Re-Identification* has been accepted at [WACV2024](https://wacv2024.thecvf.com/).
-- **Sep, 2023**: My paper [Building Footprint Extraction in Dense Areas using Super Resolution and Frame Field Learning](https://arxiv.org/abs/2309.01656) gets the **Best Paper Award** at [iCAST2023](https://icast-2023.github.io/).
+- **Sep, 2023**: My paper [Building Footprint Extraction in Dense Areas using Super Resolution and Frame Field Learning](https://arxiv.org/abs/2309.01656) gets the *Best Paper Award* at [iCAST2023](https://icast-2023.github.io/).
 
 - **Nov, 2022**: I am honored to receive *Cullen Graduate Student Success Fellowship (CGSSF)* from [UH Graduate School](https://www.uh.edu/graduate-school), UH. Keep it up, Dustin!
 - **Aug, 2022**: I started my Ph.D. journey at [University of Houston](https://uh.edu). Go for it, Dustin! 
