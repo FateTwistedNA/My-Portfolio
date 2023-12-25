@@ -22,9 +22,9 @@ May you have any question, feel free to reach out to me at:
   + *Attention-based Shape and Gait Representations Learning for Video-based Cloth-changing Person Re-Identification* (I am the first author)
   + *Data Quality Aware Approaches for Addressing Model Drift of Semantic Segmentation Models* (I am the second author)
 
-- **Nov, 2023**: Triple BAM!!! My paper entitled *Temporal 3D Shape Modeling for Video-based Cloth-Changing Person Re-Identification* has been accepted at [WACV2024 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
-- **Nov, 2023**: Double BAM!!! My paper entitled *Unsupervised Person Re-Identification in Aerial Imagery* has been accepted at [WACV2024 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
-- **Oct, 2023**: BAM!!! My paper entitled *Contrastive Viewpoint-aware Shape Learning for Long-term Person Re-Identification* has been accepted at [WACV2024](https://wacv2024.thecvf.com/).
+- **Nov, 2023**: Triple BAM!!! My paper entitled [Temporal 3D Shape Modeling for Video-based Cloth-Changing Person Re-Identification](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Nguyen_Temporal_3D_Shape_Modeling_for_Video-Based_Cloth-Changing_Person_Re-Identification_WACVW_2024_paper.html) has been accepted at [WACV'24 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
+- **Nov, 2023**: Double BAM!!! Our paper entitled [Unsupervised Person Re-Identification in Aerial Imagery](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Khaldi_Unsupervised_Person_Re-Identification_in_Aerial_Imagery_WACVW_2024_paper.html) has been accepted at [WACV'24 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
+- **Oct, 2023**: BAM!!! My paper [Contrastive Viewpoint-aware Shape Learning for Long-term Person Re-Identification](https://openaccess.thecvf.com/content/WACV2024/html/Nguyen_Contrastive_Viewpoint-Aware_Shape_Learning_for_Long-Term_Person_Re-Identification_WACV_2024_paper.html) has been accepted at [WACV'24](https://wacv2024.thecvf.com/).
 
 - **Sep, 2023**: My paper [Building Footprint Extraction in Dense Areas using Super Resolution and Frame Field Learning](https://arxiv.org/abs/2309.01656) gets the *Best Paper Award* at [iCAST2023](https://icast-2023.github.io/).
 
