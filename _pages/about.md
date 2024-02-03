@@ -13,11 +13,14 @@ Welcome to my homepage! I am a Ph.D. candidate at [Department of Computer Scienc
 Working at *Quantitative Imaging Lab (QIL)* under the supervision of Professor [Shishir Shah](https://scholar.google.com/citations?user=gJ3JGSsAAAAJ&hl=en), my research focuses on **Computer Vision and Deep Learning**. I am working actively on [Person Re-Identification](https://paperswithcode.com/task/person-re-identification#:~:text=It%20involves%20detecting%20and%20tracking,a%20robust%20and%20efficient%20manner.), where I develop feature extraction models to re-identify persons of interest, serving surveillance and public safety purposes. Besides, I am interested in working on **3D Generation and Reconstruction**, where I explore the application of Generative AI models (GANs, NeRF, Diffusion) and Vision-Language models (CLIP, Florence 2) in this 3D Vision task.
 
 May you have any question, feel free to reach out to me at:
-- Email: **dnguyen170 AT uh DOT edu**
+- Email: **dnguy222 AT cougarnet DOT uh DOT edu**
 - Phone: (346) 270-8403
 - Office: PGH 203
 
 ## News
+- **Mar, 2024**: I am serving as a reviewer at the 5th Workshop on Continual Learning in Computer Vision ([CLVision](https://sites.google.com/view/clvision2024/overview?authuser=0)), to be held at CVPR 2024 at Seattle.
+- **Jan, 2024**: I am serving as a reviewer at IEEE International Conference on Multimedia Expo ([ICME](https://2024.ieeeicme.org/)) 2024, to be held at Niagara Falls, Canada.
+
 - **Dec, 2023**: Our QIL team has got two papers accepted at the [19th International Conference on Computer Vision Theory and Applications](https://visapp.scitevents.org/).
   + *Attention-based Shape and Gait Representations Learning for Video-based Cloth-changing Person Re-Identification* (I am the first author)
   + *Data Quality Aware Approaches for Addressing Model Drift of Semantic Segmentation Models* (I am the second author)
