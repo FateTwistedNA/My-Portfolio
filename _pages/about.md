@@ -18,12 +18,17 @@ May you have any question, feel free to reach out to me at:
 - Office: PGH 203
 
 ## News
-- **Mar, 2024**: I am serving as a reviewer at the 5th Workshop on Continual Learning in Computer Vision ([CLVision](https://sites.google.com/view/clvision2024/overview?authuser=0)), to be held at CVPR 2024 at Seattle.
+- **Mar, 2024**: I am honored to be the **Winner** of the *Audience's Choice Prize* and **1st-Runner-up** of the *Committee's Choice Prize* at the 2024 PhD Research Showcase Competition. 
+
+- **Mar, 2024**: I am serving as a reviewer at multiple CVPR Workshops this year:
+    + 5th Workshop on Continual Learning in Computer Vision ([CLVision](https://sites.google.com/view/clvision2024/overview?authuser=0))
+    + [6th Workshop on Image Matching: Local Features & Beyond](https://image-matching-workshop.github.io/)
+    + [CV4Animals: Computer Vision for Animal Behavior Workshop](https://www.cv4animals.com/)
 - **Jan, 2024**: I am serving as a reviewer at IEEE International Conference on Multimedia Expo ([ICME](https://2024.ieeeicme.org/)) 2024, to be held at Niagara Falls, Canada.
 
 - **Dec, 2023**: Our QIL team has got two papers accepted at the [19th International Conference on Computer Vision Theory and Applications](https://visapp.scitevents.org/).
-  + *Attention-based Shape and Gait Representations Learning for Video-based Cloth-changing Person Re-Identification* (I am the first author)
-  + *Data Quality Aware Approaches for Addressing Model Drift of Semantic Segmentation Models* (I am the second author)
+  + Attention-based Shape and Gait Representations Learning for Video-based Cloth-Changing Person Re-Identification [[paper](https://www.scitepress.org/PublicationsDetail.aspx?ID=K/sC7dcAXBI=&t=1)]
+  + Data Quality Aware Approaches for Addressing Model Drift of Semantic Segmentation Models [[paper](https://www.scitepress.org/PublicationsDetail.aspx?ID=7whquFxd1V0=&t=1)]
 
 - **Nov, 2023**: Triple BAM!!! My paper entitled [Temporal 3D Shape Modeling for Video-based Cloth-Changing Person Re-Identification](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Nguyen_Temporal_3D_Shape_Modeling_for_Video-Based_Cloth-Changing_Person_Re-Identification_WACVW_2024_paper.html) has been accepted at [WACV'24 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
 - **Nov, 2023**: Double BAM!!! Our paper entitled [Unsupervised Person Re-Identification in Aerial Imagery](https://openaccess.thecvf.com/content/WACV2024W/RWS/html/Khaldi_Unsupervised_Person_Re-Identification_in_Aerial_Imagery_WACVW_2024_paper.html) has been accepted at [WACV'24 - 4th Real-world Surveillance Workshop](https://vap.aau.dk/rws-wacv2024/).
